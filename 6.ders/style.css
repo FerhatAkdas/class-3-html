@@ -97,19 +97,11 @@ div {
 }
 /* outline özelliği border gibi her köşesi için çalışma yapılamaz. Sadece tek değer girilir. */
 
-/* div.firstDiv {
+ div.firstDiv {
     outline-width: 10px;
     outline-style: solid;
-    outline-color:blue;
+    outline-color:rgb(134, 126, 50);
 }
-div.secondDiv {
-    outline-width: 50px;
-    outline-style: ridge;
-    outline-color:red;
-}
-div.thirdDiv {
-    outline: 10px dotted red;
-} */
 
 /* text-align yatay hizalama */
 /* body {
